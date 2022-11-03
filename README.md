@@ -1,4 +1,7 @@
-[![](https://jitpack.io/v/quiqueck/BetterEnd.svg)](https://jitpack.io/#quiqueck/BetterEnd)
+
+# THESE ARE PATCHES I DID FOR A MODPACK, 95% OF THIS CODE IS PROPERTY AND DESERVES THE CREDIT OF ITS ORIGINAL AUTHORS.
+
+Feel free to use them tho.
 
 # Better End
 
